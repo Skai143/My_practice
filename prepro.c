@@ -7,5 +7,6 @@
  */
 int main(void)
 {
-       	return (0);
+	int x = 4;
+	return (0);
 }
